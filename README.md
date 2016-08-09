@@ -5,7 +5,7 @@
 
 ## Install
 ```shell
-$ cd /path/to/CASA/
+$ cd /path/to/PCASA/
 $ make clean
 $ make 
 ```
