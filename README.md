@@ -1,7 +1,7 @@
 # PCASA: Protein Cα-based Solvent Accessibilities
   
-- Predicts residue solvent accessibilities based on Cα coordinates using random decision trees.
-- <img src="http://www.sciweavers.org/tex2img.php?eq=%20SASA_%7Bi%7D%20%3D%20%5Calpha_%7Bi%7D%20%2B%20%5Csum_%7Bj%20%20%5Cin%20%28%20r_%7Bij%7D%20%20%5Cleq%20%20r_%7Bcut%7D%29%7D%20%28%5Cbeta_%7Bj%7D%20r_%7Bij%7D%5E%7B-1%7D%20%2B%20%20%5Cgamma%20r_%7Bij%7D%5E%7B-1%7D%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" SASA_{i} = \alpha_{i} - \sum_{j  \in ( r_{ij}  \leq  r_{cut})} (\beta_{ij} r_{ij}^{\gamma})" width="294" height="43" />
+- Predicts residue solvent accessibilities based on Cα coordinates.
+- <img src="http://www.sciweavers.org/tex2img.php?eq=SASA_%7Bi%7D%20%3D%20%5Calpha_%7Bi%7D%20-%20%5Csum_%7Bj%20%20%5Cin%20%20r_%7Bij%7D%20%20%5Cleq%20%20r_%7Bcut%7D%29%7D%20%28%5Cbeta_%7Bij%7D%20r_%7Bij%7D%5E%7B%5Cgamma%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="SASA_{i} = \alpha_{i} - \sum_{j  \in  r_{ij}  \leq  r_{cut})} (\beta_{ij} r_{ij}^{\gamma}" width="218" height="43" />
 
 ## Install
 ```shell
