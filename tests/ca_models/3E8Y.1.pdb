@@ -1,0 +1,32 @@
+ATOM      1  CA  ALA     1      -5.515   4.983  -5.177  1.00  1.00      PROT
+ATOM      2  CA  CYS     2      -3.396   3.825  -2.233  1.00  1.00      PROT
+ATOM      3  CA  TYR     3      -0.037   5.599  -2.132  1.00  1.00      PROT
+ATOM      4  CA  SER     4       3.011   3.489  -1.471  1.00  1.00      PROT
+ATOM      5  CA  SER     5       4.833   5.956   0.687  1.00  1.00      PROT
+ATOM      6  CA  ASP     6       2.156   5.827   3.359  1.00  1.00      PROT
+ATOM      7  CA  CYS     7       1.326   2.182   2.704  1.00  1.00      PROT
+ATOM      8  CA  ARG     8       4.497   0.931   4.363  1.00  1.00      PROT
+ATOM      9  CA  VAL     9       4.887   3.415   7.215  1.00  1.00      PROT
+ATOM     10  CA  LYS    10       1.803   2.100   9.087  1.00  1.00      PROT
+ATOM     11  CA  CYS    11       2.950  -1.424   8.377  1.00  1.00      PROT
+ATOM     12  CA  VAL    12       6.415  -0.678   9.811  1.00  1.00      PROT
+ATOM     13  CA  ALA    13       5.229  -1.427  13.368  1.00  1.00      PROT
+ATOM     14  CA  MET    14       4.286  -4.981  12.363  1.00  1.00      PROT
+ATOM     15  CA  GLY    15       7.755  -5.121  10.793  1.00  1.00      PROT
+ATOM     16  CA  PHE    16       7.068  -7.090   7.608  1.00  1.00      PROT
+ATOM     17  CA  SER    17       8.936  -6.749   4.305  1.00  1.00      PROT
+ATOM     18  CA  SER    18       6.290  -4.536   2.671  1.00  1.00      PROT
+ATOM     19  CA  GLY    19       3.925  -4.990  -0.265  1.00  1.00      PROT
+ATOM     20  CA  LYS    20       1.396  -3.359  -2.530  1.00  1.00      PROT
+ATOM     21  CA  CYS    21      -1.800  -1.359  -2.380  1.00  1.00      PROT
+ATOM     22  CA  ILE    22      -4.459  -3.027  -4.539  1.00  1.00      PROT
+ATOM     23  CA  ASN    23      -8.077  -1.979  -4.030  1.00  1.00      PROT
+ATOM     24  CA  SER    24      -7.427   1.014  -1.725  1.00  1.00      PROT
+ATOM     25  CA  LYS    25      -6.291  -1.480   0.937  1.00  1.00      PROT
+ATOM     26  CA  CYS    26      -2.616  -1.757   1.875  1.00  1.00      PROT
+ATOM     27  CA  LYS    27      -2.155  -5.520   1.583  1.00  1.00      PROT
+ATOM     28  CA  CYS    28       0.427  -7.259   3.735  1.00  1.00      PROT
+ATOM     29  CA  TYR    29       3.521  -9.243   2.855  1.00  1.00      PROT
+ATOM     30  CA  LYS    30       4.864 -11.411   5.668  1.00  1.00      PROT
+TER  
+END
